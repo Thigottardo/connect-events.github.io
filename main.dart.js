@@ -76013,8 +76013,8 @@ s.qw()
 return s},
 $S:423}
 A.a9W.prototype={
-$0(){var s="/lotties/event.json",r="Resumo dos Eventos",q=t.i,p=t.eD
-p=new A.fE(A.a([new A.oM("Evento 1",s),new A.oM("Evento 2","/lotties/event_schedule.json"),new A.oM("Evento 3","/lotties/event_warning.json"),new A.oM("Evento 4",s)],t.Nl),A.a(["Dados Cadastrais","Meus eventos","Encontre um fornecedor","Hist\xf3rico"],q),A.kk(A.a([r,"Financeiro","Agenda","Controle das vendas","Documentos"],q),t.O),A.agj(r),0,0,A.a([],t.r7),A.et(null,null,null,t.r,t.Xp),new A.i6(p),new A.i6(p),!1,!1)
+$0(){var s="../lotties/event.json",r="Resumo dos Eventos",q=t.i,p=t.eD
+p=new A.fE(A.a([new A.oM("Evento 1",s),new A.oM("Evento 2","../lotties/event_schedule.json"),new A.oM("Evento 3","../lotties/event_warning.json"),new A.oM("Evento 4",s)],t.Nl),A.a(["Dados Cadastrais","Meus eventos","Encontre um fornecedor","Hist\xf3rico"],q),A.kk(A.a([r,"Financeiro","Agenda","Controle das vendas","Documentos"],q),t.O),A.agj(r),0,0,A.a([],t.r7),A.et(null,null,null,t.r,t.Xp),new A.i6(p),new A.i6(p),!1,!1)
 p.qw()
 return p},
 $S:424}
@@ -76360,7 +76360,7 @@ s=s.d
 p=$.cI()
 p=p==null?m:p.x2
 p=A.aC(p==null?m:$.G.t$.Q.i(0,p)).Z
-o=A.ay2("/icons/chevrondown.svg",B.b3,m,m)
+o=A.ay2("../icons/chevrondown.svg",B.b3,m,m)
 i.push(A.dY(A.c_(A.a([h,new A.rP(r,s,q,new A.anV(n),p.y,A.au(m,m,m,m,m,m,m,m,m),o,!0,!0,n.d,t.QB)],j),B.aJ,B.t,B.q),1))
 return A.z4(!1,m,!0,A.au(m,A.cS(i,B.B,B.t,B.q),m,m,new A.bZ(m,m,l,k,m,m,B.X),m,m,new A.aE(10,6,10,6),m),m,!0,m,m,m,m,m,m,m,m,m,n.gai5(),m,m,m)},
 ai6(){var s={}
@@ -76440,7 +76440,7 @@ A.tb.prototype={
 G(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=t.w,h=b.a8(i).f
 i=b.a8(i).f
 s=t.t
-r=A.cS(A.a([A.ay2("/icons/conta.svg",B.j,30,30),A.am(j,j,5),A.aP("Gerencie seus Eventos | Solu\xe7\xf5es",j,j,j,j,B.kM,j,j),new A.uJ(j),A.au(j,A.oz(B.j,j,j,!0,15,5,"LOGAR",j,j,new A.a9g(),!1,20,B.H,13),j,j,j,j,j,j,210),A.am(j,j,20),A.au(j,A.oz(B.H,j,j,!0,15,5,"CRIE SUA CONTA",j,j,new A.a9h(),!1,20,B.j,13),j,j,j,j,j,j,210)],s),B.B,B.t,B.q)
+r=A.cS(A.a([A.ay2("../icons/conta.svg",B.j,30,30),A.am(j,j,5),A.aP("Gerencie seus Eventos | Solu\xe7\xf5es",j,j,j,j,B.kM,j,j),new A.uJ(j),A.au(j,A.oz(B.j,j,j,!0,15,5,"LOGAR",j,j,new A.a9g(),!1,20,B.H,13),j,j,j,j,j,j,210),A.am(j,j,20),A.au(j,A.oz(B.H,j,j,!0,15,5,"CRIE SUA CONTA",j,j,new A.a9h(),!1,20,B.j,13),j,j,j,j,j,j,210)],s),B.B,B.t,B.q)
 q=A.aP("Produza e Gerencie seus eventos \nutilizando a melhor plataforma do Brasil!",j,j,j,j,B.a5b,B.a7,j)
 p=A.am(j,20,j)
 o=A.aP("Solu\xe7\xf5es completas para produtores de eventos e empreendores digitais.",j,j,j,j,B.kM,B.a7,j)
@@ -76448,7 +76448,7 @@ n=A.am(j,10,j)
 m=A.aP("Estamos aqui para te auxiliar na gest\xe3o e focar naquilo que realmente importa!",j,j,j,j,B.kM,B.a7,j)
 l=A.am(j,110,j)
 k=A.dO(80)
-return A.axS(j,A.au(j,A.c_(A.a([new A.bg(B.j2,r,j),A.dY(A.iW(A.c_(A.a([q,p,o,n,m,l,A.au(j,new A.bg(B.KT,A.ay2("/icons/seta_para_baixo.svg",j,15,15),j),j,j,new A.bZ(B.j,j,j,k,j,j,B.X),j,j,new A.aE(15,18,15,18),j),A.am(j,40,j)],s),B.B,B.yu,B.q),j,j),1)],s),B.aJ,B.t,B.q),j,j,new A.bZ(j,new A.Ke(new A.ok("/images/show.jpg",j,j),B.ly),j,j,j,j,B.X),i.a.b,j,j,h.a.a))}}
+return A.axS(j,A.au(j,A.c_(A.a([new A.bg(B.j2,r,j),A.dY(A.iW(A.c_(A.a([q,p,o,n,m,l,A.au(j,new A.bg(B.KT,A.ay2("../icons/seta_para_baixo.svg",j,15,15),j),j,j,new A.bZ(B.j,j,j,k,j,j,B.X),j,j,new A.aE(15,18,15,18),j),A.am(j,40,j)],s),B.B,B.yu,B.q),j,j),1)],s),B.aJ,B.t,B.q),j,j,new A.bZ(j,new A.Ke(new A.ok("../images/show.jpg",j,j),B.ly),j,j,j,j,B.X),i.a.b,j,j,h.a.a))}}
 A.a9g.prototype={
 $0(){return A.yo($.bi(),A.x_(new A.MJ(null),B.ak,B.e0),!0,t.z)},
 $S:6}
@@ -76945,7 +76945,7 @@ G(a,b){var s=null,r=t.t
 return A.axS(B.m5,A.cS(A.a([new A.A1("Encontre um fornecedor",s),A.dY(A.c_(A.a([new A.bg(B.aX.E2(0,24),A.au(s,new A.Qn(s),s,s,s,24,s,s,s),s),A.dY(new A.bg(B.aX,A.au(s,new A.Qo(s),s,s,new A.bZ(B.j,s,s,A.dO(10),s,s,B.X),s,s,new A.aE(10,10,10,10),s),s),9)],r),B.ba,B.t,B.q),1)],r),B.ba,B.t,B.q))}}
 A.Qm.prototype={
 G(a,b){var s=null,r=t.t
-return A.xo(A.au(s,A.c_(A.a([A.au(s,new A.te(A.aOT(s,s,new A.ok("/images/store.jpg",s,s)),B.ly,s),s,s,s,80,s,s,s),A.am(s,8,s),A.aP("Fornecedor x",s,s,s,s,A.be(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.a7,s),A.aP("Avenida exemplo, n 45",s,s,s,s,s,B.a7,s),A.aP("Pedido m\xednimo: 12 itens",s,s,s,s,s,B.a7,s),A.cS(A.a([A.M4(B.Ll,B.m9,s),A.aP("4 estrelas",s,s,s,s,s,s,s)],r),B.B,B.dh,B.q),A.am(s,8,s)],r),B.ba,B.t,B.c8),s,s,new A.bZ(s,s,s,new A.d0(new A.cl(20,20),new A.cl(20,20),B.V,B.V),s,s,B.X),s,s,s,s),B.j,10)}}
+return A.xo(A.au(s,A.c_(A.a([A.au(s,new A.te(A.aOT(s,s,new A.ok("../images/store.jpg",s,s)),B.ly,s),s,s,s,80,s,s,s),A.am(s,8,s),A.aP("Fornecedor x",s,s,s,s,A.be(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.a7,s),A.aP("Avenida exemplo, n 45",s,s,s,s,s,B.a7,s),A.aP("Pedido m\xednimo: 12 itens",s,s,s,s,s,B.a7,s),A.cS(A.a([A.M4(B.Ll,B.m9,s),A.aP("4 estrelas",s,s,s,s,s,s,s)],r),B.B,B.dh,B.q),A.am(s,8,s)],r),B.ba,B.t,B.c8),s,s,new A.bZ(s,s,s,new A.d0(new A.cl(20,20),new A.cl(20,20),B.V,B.V),s,s,B.X),s,s,s,s),B.j,10)}}
 A.Qn.prototype={
 G(a,b){return new A.dR(new A.aeI(this),null)}}
 A.aeI.prototype={
@@ -77170,7 +77170,7 @@ if(s==null)s=$.D=new A.ak()
 s.am(0,null,A.m(this.a).h("ar.T*")).ajW(a)},
 $S:94}
 A.GX.prototype={
-G(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="Campo obrigat\xf3rio",h="##/##/####",g="Data inv\xe1lida",f=A.iW(A.abl("/lotties/add_task.json",250,300),j,j),e=$.D
+G(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="Campo obrigat\xf3rio",h="##/##/####",g="Data inv\xe1lida",f=A.iW(A.abl("../lotties/add_task.json",250,300),j,j),e=$.D
 if(e==null)e=$.D=new A.ak()
 e=e.am(0,j,A.m(k).h("ar.T*")).a
 s=t.u3
@@ -77339,7 +77339,7 @@ A.ahO.prototype={
 $1(a){this.a.c.sk(0,!1)},
 $S:5}
 A.qa.prototype={
-G(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="Campo obrigat\xf3rio",a=A.iW(A.abl("/lotties/ask_information.json",250,300),c,c),a0=A.aP("Precisamos de algumas informa\xe7\xf5es \nmas fique tranquilo \xe9 r\xe1pido e seguro!",c,c,c,c,B.a38,B.a7,c),a1=$.D
+G(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="Campo obrigat\xf3rio",a=A.iW(A.abl("../lotties/ask_information.json",250,300),c,c),a0=A.aP("Precisamos de algumas informa\xe7\xf5es \nmas fique tranquilo \xe9 r\xe1pido e seguro!",c,c,c,c,B.a38,B.a7,c),a1=$.D
 if(a1==null)a1=$.D=new A.ak()
 a1=a1.am(0,c,A.m(d).h("ar.T*")).fr
 s=t.u3
@@ -77461,7 +77461,7 @@ return null},
 $S:6}
 A.RR.prototype={
 G(a,b){var s=null
-return new A.bg(B.aX,A.c_(A.a([A.abl("/lotties/success.json",400,400),A.am(s,20,s),A.aP("Tudo certo! Conta criada! \nVoc\xea est\xe1 pronto para come\xe7ar a organizar seus eventos!",s,s,s,s,A.be(s,s,B.bv,s,s,s,s,s,s,s,s,21,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.a7,s),new A.uJ(s),A.oz(B.H,s,s,!0,15,5,"Vamos l\xe1!",s,s,new A.ahL(),!1,8,B.j,13)],t.t),B.B,B.t,B.q),s)}}
+return new A.bg(B.aX,A.c_(A.a([A.abl("../lotties/success.json",400,400),A.am(s,20,s),A.aP("Tudo certo! Conta criada! \nVoc\xea est\xe1 pronto para come\xe7ar a organizar seus eventos!",s,s,s,s,A.be(s,s,B.bv,s,s,s,s,s,s,s,s,21,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.a7,s),new A.uJ(s),A.oz(B.H,s,s,!0,15,5,"Vamos l\xe1!",s,s,new A.ahL(),!1,8,B.j,13)],t.t),B.B,B.t,B.q),s)}}
 A.ahL.prototype={
 $0(){return A.LD($.bi())},
 $S:0}
