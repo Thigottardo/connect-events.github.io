@@ -80211,7 +80211,7 @@ A.aa0.prototype={
 $0(){var s,r=$.D
 if(r==null)r=$.D=new A.ap()
 r.an(0,null,A.n(this.a).h("av.T*")).toString
-s=A.aFm("../assets/documents/import.xlsx")
+s=A.aFm("documents/import.xlsx")
 s.download="PlanilhaModelo"
 s.click()
 return null},
